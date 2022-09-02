@@ -1,1 +1,1 @@
-changes user to betty
+How to change user to betty
