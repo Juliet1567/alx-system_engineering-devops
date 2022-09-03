@@ -1,5 +1,4 @@
 #!/bin/bash
 _user = "$(id -u -n)"
-
-echo " username = $_user"
+echo "username = $_user"
 
