@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Hello, world \n Learning more commands." 
+echo -e "Hello, world\nLearning more commands" >> 0-hello_world 
