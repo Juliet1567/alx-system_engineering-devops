@@ -1,1 +1,1 @@
-display contents of /etc/passwd
+print hello world
